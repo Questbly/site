@@ -1,3 +1,6 @@
+title: Questbly application
+description: Questionnaires done right: mobile optimized web app, no personal data storage. 
+
 ## Why Questbly?
 The [Questbly](https://app.questbly.com) app allows to quickly create and publish questionnaires online or in the real world.
 The user experience is optimized for mobile users. Everything can be done from your smartphone, same for your respondents. 
@@ -9,6 +12,7 @@ The common flow is simple:
 - get responses in your email.
 
 ## No data collection 
+
 - The app doesn't save a local copy of the collected data, it's all immediately emailed to the address you set up. 
 - You can set up access to the app with your Google or Facebook account, no personal data stored on the site in this case. 
 Read our [data privacy policy](/privacy-policy).
