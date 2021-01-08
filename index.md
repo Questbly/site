@@ -1,7 +1,3 @@
----
-title: Questbly application
-description: Questionnaires done right: mobile optimized web app, no personal data storage. 
----
 
 ## Why Questbly?
 The [Questbly](https://app.questbly.com) app allows to quickly create and publish questionnaires online or in the real world.
