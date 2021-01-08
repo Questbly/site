@@ -1,3 +1,4 @@
+# License
 Copyright 2021 Alexey Efimov, Alex Evdokimenko
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
