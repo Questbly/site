@@ -11,6 +11,7 @@ The common flow is simple:
 ## No data collection 
 - The app doesn't save a local copy of the collected data, it's all immediately emailed to the address you set up. 
 - You can set up access to the app with your Google or Facebook account, no personal data stored on the site in this case. 
+Read our [data privacy policy](/privacy-policy).
 
 ## Open source
 The source code of the Questbly app is available under [Free BSD license](/license). 
