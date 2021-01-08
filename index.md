@@ -13,4 +13,4 @@ The common flow is simple:
 - You can set up access to the app with your Google or Facebook account, no personal data stored on the site in this case. 
 
 ## Open source
-The source code of the Questbly app is available under [Free BSD license](license). 
+The source code of the Questbly app is available under [Free BSD license](/license). 
