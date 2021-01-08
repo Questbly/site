@@ -1,6 +1,11 @@
-# Questbly app
 ## Why Questbly?
-The [Questbly](https://app.questbly.com) app allows to quickly create and publish questionnaires online or in the real world.  
+The [Questbly](https://app.questbly.com) app allows to quickly create and publish questionnaires online or in the real world.
+The app is optimized for mobile browsing. The common flow is simple:
+- sign up for Questbly;
+- create your questionnaire and provide an email to collect responses;
+- publish it;
+- share by posting a direct link to your target audience or printing a QR code;
+- get responses in your email.
 
 ## No data collection 
 The app doesn't save a local copy of the collected data, it's all immediately emailed to the address you set up. 
