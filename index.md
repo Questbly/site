@@ -1,4 +1,3 @@
-
 ## Why Questbly?
 The [Questbly](https://app.questbly.com) app allows to quickly create and publish questionnaires online or in the real world.
 The user experience is optimized for mobile users. Everything can be done from your smartphone, same for your respondents. 
