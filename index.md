@@ -16,4 +16,4 @@ The common flow is simple:
 Read our [data privacy policy](/privacy-policy).
 
 ## Open source
-The source code of the Questbly app is available under [Free BSD license](/license). 
+The source code of the Questbly app is available under [Free BSD license](/lic). 
